@@ -1,0 +1,6 @@
+# Image resources for the book
+https://git.io/v9oet
+
+
+#site for various icons and process to add them into android/web project
+https://material.io/icons/

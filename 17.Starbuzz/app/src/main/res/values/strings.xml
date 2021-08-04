@@ -1,0 +1,21 @@
+<resources>
+
+<!--    NEED TO REMOVE UNUSED STRINGS-->
+    <string name="app_name">Starbuzz</string>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+    <string name="title_activity_drink_category">DrinkCategoryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Your favorite drinks:</string>
+</resources>
